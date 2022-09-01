@@ -1,4 +1,4 @@
-# Dicoding **Belajar Membuat Front-End Web untuk Pemula** Submission
+# Dicoding Belajar Membuat Front-End Web untuk Pemula Submission
 
 Projek ini merupakan pengumpulan tugas untuk kelas Dicoding dan IDCamp Indosat Oredoo 2022 pada kelas Belajar Membuat Front-End Web untuk Pemula
 
